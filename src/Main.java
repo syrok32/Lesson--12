@@ -13,6 +13,9 @@ public class Main {
         System.out.println(bookCat.getYearPublic());
 
 
+        System.out.println(authorDog);
+        System.out.println(bookCat);
+
     }
 
 
