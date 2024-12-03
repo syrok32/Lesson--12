@@ -16,7 +16,6 @@ public class Book {
     public int getYearPublic() {
         return this.yearPublic;
     }
-
     public Author getAuthor() {
         return this.author;
     }
