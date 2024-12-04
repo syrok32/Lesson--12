@@ -12,4 +12,12 @@ public class Author {
     public String getLastName() {
         return this.lastName;
     }
+
+    @Override
+    public String toString() {
+        return "Author{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                '}';
+    }
 }
